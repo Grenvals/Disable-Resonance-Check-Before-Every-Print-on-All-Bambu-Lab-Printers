@@ -17,6 +17,7 @@ The only change made by this repository is skipping the automatic resonance chec
 - ✅ P2S
 - ✅ X1
 - ✅ X1-Carbon
+- ✅ X1E
 
 ### Supported slicers
 
