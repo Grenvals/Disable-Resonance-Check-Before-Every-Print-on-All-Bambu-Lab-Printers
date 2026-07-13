@@ -13,6 +13,7 @@ The only change made by this repository is skipping the automatic resonance chec
 
 - ✅ A1
 - ✅ A1 mini
+- ✅ P1S
 
 ### Supported slicers
 
