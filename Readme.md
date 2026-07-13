@@ -14,12 +14,15 @@ The only change made by this repository is skipping the automatic resonance chec
 - ✅ A1
 - ✅ A1 mini
 - ✅ P1S
+- ✅ P2S
 
 ### Supported slicers
 
 - Bambu Studio
 - OrcaSlicer
 - Any slicer that allows editing the Machine Start G-code
+
+![Image](https://github.com/user-attachments/assets/3e2d42d1-46e9-4ef9-a8b1-653f99c93548)
 
 
 ## Why Disable the Automatic Resonance Check?
