@@ -20,6 +20,7 @@ The only change made by this repository is skipping the automatic resonance chec
 - ✅ X1E
 - ✅ X2D
 - ✅ H2D
+- ✅ H2S
 
 ### Supported slicers
 
