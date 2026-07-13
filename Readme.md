@@ -12,6 +12,7 @@ The only change made by this repository is skipping the automatic resonance chec
 ## Supported Printers
 
 - ✅ A1
+- ✅ A1 mini
 
 ### Supported slicers
 
@@ -56,8 +57,6 @@ It is recommended to perform a manual resonance calibration after:
 ![Image](https://github.com/user-attachments/assets/3e2d42d1-46e9-4ef9-a8b1-653f99c93548)
 
 ## Disclaimer
-
-This modification is provided **as is**.
 
 Use it at your own risk. Always verify your printer is properly calibrated after hardware modifications or maintenance. If needed, simply run the official resonance calibration from the printer's **Calibration** menu.
 
